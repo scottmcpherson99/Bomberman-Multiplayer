@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\BombermanMultiplayer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D8FAC235-B51D-4FE2-840C-2A706BF49777}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BombermanMultiplayer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BombermanMultiplayerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{438AAC2E-98BB-4194-8741-8716510A0236}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\BombermanMultiplayer">
+      <UniqueIdentifier>{3F29E06E-B86B-4B20-849C-168A0F115ED7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\BombermanMultiplayer\BombermanMultiplayer.Build.cs">
+      <Filter>Source\BombermanMultiplayer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\BombermanMultiplayer\BombermanMultiplayer.cpp">
+      <Filter>Source\BombermanMultiplayer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BombermanMultiplayer\BombermanMultiplayer.h">
+      <Filter>Source\BombermanMultiplayer</Filter>
+    </ClInclude>
+    <Filter Include="Source\BombermanMultiplayer\GameSettings">
+      <UniqueIdentifier>{0CA14BA9-8075-457F-B110-557B5D3AFE08}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BombermanMultiplayer\GameSettings\BombermanMultiplayerGameModeBase.cpp">
+      <Filter>Source\BombermanMultiplayer\GameSettings</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BombermanMultiplayer\GameSettings\BombermanMultiplayerGameModeBase.h">
+      <Filter>Source\BombermanMultiplayer\GameSettings</Filter>
+    </ClInclude>
+    <Filter Include="Source\BombermanMultiplayer\PlayerCharacter">
+      <UniqueIdentifier>{FA90865A-CB5B-4FF1-B861-7E9BAB4278A2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\BombermanMultiplayer\PlayerCharacter\PlayerCharacter.cpp">
+      <Filter>Source\BombermanMultiplayer\PlayerCharacter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\BombermanMultiplayer\PlayerCharacter\PlayerCharacter.h">
+      <Filter>Source\BombermanMultiplayer\PlayerCharacter</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
