@@ -1,2 +1,2 @@
-D:\Unreal Projects\BombermanMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\BombermanMultiplayer\Definitions.BombermanMultiplayer.h
-D:\Unreal Projects\BombermanMultiplayer\Source\BombermanMultiplayer\BombermanMultiplayer.h
+D:\Unreal Projects\GitHub\Bomberman-Multiplayer\BombermanMultiplayer\Intermediate\Build\Win64\UE4Editor\Development\BombermanMultiplayer\Definitions.BombermanMultiplayer.h
+D:\Unreal Projects\GitHub\Bomberman-Multiplayer\BombermanMultiplayer\Source\BombermanMultiplayer\BombermanMultiplayer.h

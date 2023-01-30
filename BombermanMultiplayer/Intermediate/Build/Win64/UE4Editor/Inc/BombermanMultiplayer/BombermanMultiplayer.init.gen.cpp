@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeBombermanMultiplayer_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x2C4B6896,
-				0x5D8F7C01,
+				0x1EA85299,
+				0xBB4D861D,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
